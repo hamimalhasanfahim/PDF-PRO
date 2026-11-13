@@ -1,0 +1,6 @@
+{
+  "name": "PDF Master Pro",
+  "description": "Everything PDF. One Powerful App. Create, edit, organize, compress, scan, OCR, secure, and manage PDF documents on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
